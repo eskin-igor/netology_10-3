@@ -1,0 +1,18 @@
+sending incremental file list
+./
+backup_rsync.sh
+            762 100%    0.00kB/s    0:00:00              762 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=9/11)
+index.html
+             64 100%   62.50kB/s    0:00:00               64 100%   62.50kB/s    0:00:00 (xfr#2, to-chk=8/11)
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
+
+sent 1,323 bytes  received 93 bytes  2,832.00 bytes/sec
+total size is 826  speedup is 0.58
+[32m----- | 2025-04-01 | 22:57:01 | Backup completed Successfully! | -----[0m
